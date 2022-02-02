@@ -10,8 +10,8 @@
   
   <p align="center">
   <a href="https://github.com/KlingerMatheus" target="blank">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlingerMatheus&layout=compact&theme=radical&custom_title=Minhas%20Linguagens%20Favoritas%20:)" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KlingerMatheus&show_icons=true&theme=radical&hide_rank=false&custom_title=Como%20Estou%20Indo?%20¬¬" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlingerMatheus&layout=compact&theme=radical&custom_title=Minhas%20Linguagens%20Favoritas%20:)" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KlingerMatheus&show_icons=true&theme=radical&hide_rank=false&custom_title=Como%20Estou%20Indo?%20¬¬" />
   </a>
   </p>
   
