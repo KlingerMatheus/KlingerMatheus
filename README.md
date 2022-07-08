@@ -3,7 +3,6 @@
  
   <h2>Meu nome é <b>Klinger Matheus</b>, sou <b>Desenvolvedor Front-End Junior</b>.</h2>
   <li>Desenvolvimento WEB É MUITO BOOM!!</li>
-  // <li>No momento estou em busca de uma oportunidade de emprego!</li>
   <li>Fique a vontade para conhecer sobre os meus projetos.</li>
   
   <br />
