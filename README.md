@@ -1,9 +1,8 @@
 <div class="container">
-  <h3>Seja bem-vindo ao meu perfil do GitHub! :D</h3>
+  <h3>Welcome to my GitHub! :D</h3>
  
-  <h2>Meu nome é <b>Klinger Matheus</b>, sou <b>Desenvolvedor Front-End Junior</b>.</h2>
-  <li>Desenvolvimento WEB É MUITO BOOM!!</li>
-  <li>Fique a vontade para conhecer sobre os meus projetos.</li>
+  <h2>My name is <b>Klinger Matheus</b>, I'm <b>React Front End Developer</b>.</h2>
+  <li>Take a look in my works and contributions.</li>
   
   <br />
   
@@ -32,7 +31,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue Js" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
     <h3>Adicionais</h3>
     <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Adobe Photoshop" />
     <img src="https://aleen42.github.io/badges/src/premiere.svg" alt="Adobe Premiere Pro" />
