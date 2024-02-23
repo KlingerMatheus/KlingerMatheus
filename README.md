@@ -1,7 +1,7 @@
 <div class="container">
   <h3>Welcome to my GitHub! :D</h3>
  
-  <h2>My name is <b>Klinger Matheus</b>, I'm <b>React Front End Developer</b>.</h2>
+  <h2>My name is <b>Klinger Matheus</b>, I'm <b>Front End Engineer Developer</b>.</h2>
   <li>Take a look in my works and contributions.</li>
   
   <br />
